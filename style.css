@@ -1,16 +1,6 @@
-.o-grid__item {
-    position: fixed;
-    top: 25px;
-    left: 25px;
-    display: inline-block;
-    z-index: 11;
-}
 
-.touch-menu {
-    display: block;
-    width: 45px;
-    height: 45px;
-}
+
+
 
 .touch-menu:focus {outline: none;}
 
